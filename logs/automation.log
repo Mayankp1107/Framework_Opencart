@@ -1,0 +1,199 @@
+[10:45:43.501] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:45:43.701] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:45:44.131] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:45:44.143] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:45:45.642] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:45:45.699] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[10:50:41.182] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:50:41.388] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:50:41.819] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:50:41.830] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:50:43.332] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:57:42.129] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:57:42.370] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:57:42.804] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:57:42.807] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:57:44.467] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:57:44.521] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:40:11.536] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:40:11.733] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:40:12.206] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:40:12.212] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:40:14.054] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:40:14.121] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:40:17.969] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:40:18.109] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:40:18.563] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:40:18.563] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:40:20.346] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:40:20.400] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:41:19.857] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:41:20.045] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:41:20.228] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:41:20.421] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:41:20.988] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:41:20.994] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:41:21.077] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:41:21.078] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:41:23.274] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:41:23.314] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:41:23.362] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:41:23.393] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[13:00:10.488] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[13:01:32.295] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[13:06:19.397] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[13:06:23.556] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[13:06:59.150] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[13:07:02.778] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[15:56:45.283] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[15:57:12.583] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[15:58:14.388] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:01:41.074] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:05:09.473] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:06:38.448] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:07:15.029] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:26:34.351] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:26:39.063] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[16:33:55.039] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[16:33:59.364] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[16:34:01.466] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[17:55:52.769] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\grouping.xml
+
+[17:57:28.583] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\grouping.xml
+
+[17:57:33.153] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[17:57:33.784] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[17:57:34.289] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[17:57:34.296] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[17:57:35.876] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[17:57:35.936] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[17:57:38.759] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[17:57:40.794] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[11:59:30.787] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\grouping.xml
+
+[11:59:36.955] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:59:37.555] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:59:38.282] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:59:38.287] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:59:41.319] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:59:41.379] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:59:44.571] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[11:59:51.484] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[17:51:10.068] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[17:51:17.562] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[17:51:18.381] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[17:51:18.961] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[17:51:18.965] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[17:51:20.888] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[17:51:20.979] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[17:51:24.890] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[17:51:27.415] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[17:54:44.617] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[18:26:01.409] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[18:26:05.726] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[18:26:06.327] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[18:26:06.964] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[18:26:06.972] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[18:26:08.762] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[18:26:08.814] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[18:26:12.192] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[18:26:13.963] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[09:32:01.110] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[12:17:55.573] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[12:17:56.197] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[12:17:56.796] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[12:17:56.804] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[12:17:58.633] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[12:17:58.689] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[12:18:02.120] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[12:18:04.093] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[10:41:42.822] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[10:41:50.668] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:41:51.217] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:41:51.654] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:41:51.657] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:41:53.216] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:41:53.262] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[10:41:56.711] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[10:41:58.662] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[10:49:47.150] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[10:49:50.982] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:49:51.547] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:49:52.004] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:49:52.011] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:49:53.597] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:49:53.644] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[10:49:56.497] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[10:49:57.987] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[10:51:28.163] [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\Framework_Opencart\Master.xml
+
+[10:51:31.676] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[10:51:31.813] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[10:51:32.240] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[10:51:32.245] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[10:51:33.746] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[10:51:33.805] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[10:51:37.980] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[10:51:40.043] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[17:25:17.562] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[17:25:17.835] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[17:25:18.366] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[17:25:18.371] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[17:25:20.418] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[17:25:20.478] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[17:25:23.539] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[17:25:25.566] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[17:54:25.353] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[17:54:25.837] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[17:54:26.450] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[17:54:26.460] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[17:54:28.161] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[17:54:28.242] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[17:54:31.610] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[17:54:33.181] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[18:07:17.381] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[18:07:18.081] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[18:07:18.689] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[18:07:18.699] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[18:07:20.440] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[18:07:20.508] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[18:07:23.933] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[18:07:26.166] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
